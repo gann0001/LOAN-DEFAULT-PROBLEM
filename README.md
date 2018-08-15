@@ -18,4 +18,4 @@ Status1 - Status6 : repayment status 1 - 6 months prior (-2 = no payment needed;
 Bill1 - Bill6 : bill statement amount for 1 - 6 months prior
 Payment1 - Payment6 : payment amount for 1 - 6 months prior
 IndLevel : external data associated with individual
-Default : whether or not the individual defaults on the loan this month (Y=yes, N = no) -- target for your classification problem
+Default : Whether or not the individual defaults on the loan this month (Y=yes, N = no) -- target for your classification problem
